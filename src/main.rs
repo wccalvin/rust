@@ -7,5 +7,5 @@ fn main() {
     // println!("Hello, world!"); // first program
     // print::run(); // comments and print essentials
     // variable::run(); // Declaring variables
-    datatype::run(); // datatype examples
+    datatype::run(); // datatypes
 }
