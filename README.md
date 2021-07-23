@@ -1,4 +1,4 @@
-# rust
+# Rust
 
 This project contains small excercises to get started on `rust`
 
