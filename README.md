@@ -1,6 +1,6 @@
 # rust
 
-Hello. This project contains small excercises to get started on `rust`
+This project contains small excercises to get started on `rust`
 
 ## Install
 
