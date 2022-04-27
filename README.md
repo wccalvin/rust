@@ -6,7 +6,7 @@ This project contains notes and excercises to get started on `rust`
 
 Using [rustup](https://www.rust-lang.org/tools/install)
 
-## Example
+## How to Compile
 
 1. [Compile](https://github.com/wccalvin/rust/tree/main/rust-compile) `rust` without `cargo`
 
