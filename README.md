@@ -1,16 +1,19 @@
 # Rust
 
-This project contains notes and excercises to get started on `rust`
+This project contains notes and exercises to get started on `rust`
 
 ## Install
 
 Using [rustup](https://www.rust-lang.org/tools/install)
 
-## How to Compile
+## Table of contents
 
-1. [Compile](https://github.com/wccalvin/rust/tree/main/rust-compile) `rust` without `cargo`
+| chapter | description | content |
+| - | - | - |
+| 00 | rust intro | |
+| 01 | compile with rustc | [01-rust-compile](https://github.com/wccalvin/rust/tree/main/01-rust-compile) |
 
-2. Use `cargo`
+1. Use `cargo`
 
 Initialize the directory using `cargo init`. It will generate a `Cargo.toml` file, `.gitignore` file and a `src` directory.
 
