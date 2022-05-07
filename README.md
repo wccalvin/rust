@@ -12,6 +12,7 @@ Using [rustup](https://www.rust-lang.org/tools/install)
 | - | - | - |
 | 00 | rust intro | |
 | 01 | compile with rustc | [01-rust-compile](https://github.com/wccalvin/rust/tree/main/01-rust-compile) |
+| 02 | use cargo | [02-use-cargo]() |
 
 1. Use `cargo`
 
