@@ -9,10 +9,8 @@ Using [rustup](https://www.rust-lang.org/tools/install)
 ## Table of contents
 
 | chapter | description | content |
-| - | - | - |
-| 00 | rust intro | |
 | 01 | compile with rustc | [01-rust-compile](https://github.com/wccalvin/rust/tree/main/01-rust-compile) |
-| 02 | use cargo | [02-use-cargo]() |
+| 02 | [use cargo](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html) | [hello_cargo](https://github.com/wccalvin/rust-notes/tree/main/hello_cargo) |
 
 1. Use `cargo`
 
