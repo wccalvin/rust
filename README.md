@@ -20,4 +20,3 @@ To execute: `cargo run` (the executable will be available at `./target/debug`)
 To execute the previously compiled version: `./target/debug/rust`
 To just build and not execute: `cargo build`
 To build for production: `cargo build --release` (the release executable will be availabe at `./target/release`)
->>>>>>> 031989220db65116506e2aa684837c6b81e8b1b1
